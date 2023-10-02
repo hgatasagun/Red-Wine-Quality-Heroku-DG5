@@ -1,3 +1,4 @@
+python-3.10.11
 absl-py==1.4.0
 ai==1.0.1
 aiofiles @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f56ag8l7kr/croot/aiofiles_1683773599608/work
