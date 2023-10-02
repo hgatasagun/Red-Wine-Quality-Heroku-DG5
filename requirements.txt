@@ -1,4 +1,4 @@
-Python==3.10.11
+Python>=3.10.11
 Flask==2.2.5
 itsdangerous==2.1.2
 Jinja2==3.1.2
