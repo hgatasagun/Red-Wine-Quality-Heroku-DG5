@@ -304,9 +304,6 @@ with open('model.pkl', 'wb') as model_file:
 with open('model.pkl', 'rb') as model_file:
     loaded_model = pickle.load(model_file)
 
-prediction = loaded_model.predict([[12, 2200, 5, 3, 4, 5, 6, 2, 1, 2, 11]])
-print(prediction)
-
 
 
 
